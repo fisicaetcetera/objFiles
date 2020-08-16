@@ -5,7 +5,7 @@ function setup() {
 }
 
 function preload() {
-  vertebra = loadModel('vertebra.obj',true, callb);
+  vertebra = loadModel('lucca-c6color%20test.obj',true, callb);
 }
 
 function draw() {
